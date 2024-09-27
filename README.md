@@ -9,6 +9,7 @@ Many things have much space for improovement but im happy with the way it turned
 
 ## Possibilities
 
+- Open: Able to show contents of text files, run MP3's, display pictures and start other files as os.startfile 
 - Move: Able to move selected file from one directory to another
 - Delete: Able to delete selected file
 - Copy: Able to copy selected file to selected directory
