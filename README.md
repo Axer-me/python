@@ -14,7 +14,7 @@ Many things have much space for improovement but im happy with the way it turned
 - Copy: Able to copy selected file to selected directory
 - Convert: Converts selected file to a .dat format __Only works for images and csv for now__
 - Convert image back: Converts .dat file of an image back to png format __Becomes black and white during transition__
-- Convert .csv back: Converts .dat **( or .csv)** file back to .csv without losing any information
+- Convert .csv back: Converts .dat **(or .csv)** file back to .csv without losing any information
 
 ## Lib's
 - os
