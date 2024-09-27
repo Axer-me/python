@@ -6,6 +6,7 @@
 
 This programm was made as a final project of my Python programming language course at the university during my 5th semester. 
 Many things have much space for improovement but im happy with the way it turned out anyway.
+The repository includes some samples to try things out.
 
 ## Possibilities
 
